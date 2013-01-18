@@ -1,5 +1,5 @@
 
-window.ymtest = {
+window.GS = {
   Models: {},
   Collections: {},
   Views: {},
@@ -10,5 +10,5 @@ window.ymtest = {
 };
 
 $(document).ready(function(){
-  ymtest.init();
+  GS.init();
 });

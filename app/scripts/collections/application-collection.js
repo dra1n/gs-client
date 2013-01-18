@@ -1,5 +1,5 @@
-ymtest.Collections.ApplicationCollection = Backbone.Collection.extend({
+GS.Collections.ApplicationCollection = Backbone.Collection.extend({
 
-  model: ymtest.Models.ApplicationModel
+  model: GS.Models.ApplicationModel
 
 });

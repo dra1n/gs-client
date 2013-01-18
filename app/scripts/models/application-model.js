@@ -1,3 +1,3 @@
-ymtest.Models.ApplicationModel = Backbone.Model.extend({
+GS.Models.ApplicationModel = Backbone.Model.extend({
 
 });

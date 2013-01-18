@@ -1,3 +1,3 @@
-ymtest.Routers.ApplicationRouter = Backbone.Router.extend({
+GS.Routers.ApplicationRouter = Backbone.Router.extend({
 
 });

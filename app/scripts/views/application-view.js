@@ -1,4 +1,4 @@
-ymtest.Views.applicationView = Backbone.View.extend({
+GS.Views.applicationView = Backbone.View.extend({
 
   //template: application
 
