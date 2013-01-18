@@ -1,0 +1,15 @@
+{
+  "author": "dra1n",
+  "name": "getsocio-client",
+  "version": "0.0.1",
+  "private": true,
+  "bin": {
+    "deploy-gs": "./bin/deploy"
+  },
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "latest"
+  }
+}
